@@ -1,0 +1,27 @@
+{
+  "name": "MINECRAFT ",
+  "subtitle": "Repo by SpaceGenZ",
+  "description": "Install minecraft !",
+  "iconURL": "https://raw.githubusercontent.com/Nongthienman19/spacegenz/main/1502A0D0-F260-4E6F-A1A6-DAB2FAAD31AC.jpeg",
+  "headerURL": "https://raw.githubusercontent.com/Nongthienman19/spacegenz/main/1502A0D0-F260-4E6F-A1A6-DAB2FAAD31AC.jpeg",
+  "website": "",
+  "tintColor": "",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "1.20.81",
+      "iconURL": "https://preview.redd.it/minecraft-logo-v0-ak9w918zi5r81.png?auto=webp&s=614e5180aa1f7068676a06351c8edffc86b3b58a",
+      "tintColor": "",
+      "versions": [
+        {
+          "version": "1.20.81",
+          "downloadURL": "https://dl.mcpelife.com/minecraft-ipa/1-20-81/Minecraft-v1.20.81.ipa",
+          "size": "653.6"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
